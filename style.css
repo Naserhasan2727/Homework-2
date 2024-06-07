@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
